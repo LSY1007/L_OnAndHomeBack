@@ -2,7 +2,8 @@
 
 ###  전체 구조도
 
-<img width="812" height="842" alt="image" src="https://github.com/user-attachments/assets/be392598-b8d6-42c4-b38e-cc065c51877b" />
+<img width="1134" height="1120" alt="image" src="https://github.com/user-attachments/assets/8a32ea2a-58af-4892-964f-850dde3a34ed" />
+
 
 
 ###  요청 처리 흐름
